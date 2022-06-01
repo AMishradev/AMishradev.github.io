@@ -1,0 +1,14 @@
+
+#text1 {
+	color: black;
+	font-family: Arial;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.text {
+	text-indent: 1em;
+	font-family: Arial;
+	font-size: 1em;
+	text-align: center;
+}
