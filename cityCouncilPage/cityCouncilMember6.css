@@ -1,0 +1,21 @@
+h1 {
+	color: black;
+	font-family: Arial;
+	font-style: bold;
+	text-align: center;
+	font-size: 3em;
+}
+
+img {
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	color: black;
+	font-family: Arial;
+	text-align: center;
+	font-size: 1.5em;
+}
