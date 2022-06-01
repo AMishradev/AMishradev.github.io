@@ -1,0 +1,35 @@
+h1{
+	color: black;
+	font-family: Arial;
+	font-size: 3em;
+	text-align: center;
+}
+
+h2 {
+	color: black;
+	font-family: Arial;
+	font-size: 2em;
+	text-align: center;
+}
+
+img {
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.chief-description {
+	color: black;
+	font-family: Arial;
+	font-size: 1em;
+	text-align: center;
+}
+
+
+.captain {
+	color: black;
+	font-family: Arial;
+	font-size: 1.5em;
+	text-align: center;
+}
