@@ -1,0 +1,40 @@
+
+
+#heading1 {
+	color: black;
+	font-family: Arial;
+	font-size: 3em;
+	text-align: center;
+}
+
+
+.text {
+	color: black;
+	font-family: Arial;
+	font-size: 2em;
+	text-align: center;
+	text-indent: 1em;
+}
+
+
+a {
+	font-family: Arial;
+	font-weight: 700;
+	display: block;
+	position: relative;
+	padding: 4px;
+	text-decoration: none;
+	color: black;
+	border-radius: 8px;
+	box-shadow: 0px 9px 0px rgba(219, 31, 5, 1.0), 0px 9px 25px rgba(0, 0, 0, 0.7);
+	margin: 100px auto;
+	width: 200px;
+	text-align: center;
+	transition: all 0.1s ease;
+}
+
+a:active {
+	box-shadow: 0px 3px 0px rgba(219, 31, 5, 1.0), 0px 3px 6px rgba(0, 0, 0, 0.9);
+	position: relative;
+	top: 6px;
+}

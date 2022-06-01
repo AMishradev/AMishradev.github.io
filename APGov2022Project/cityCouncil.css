@@ -1,0 +1,50 @@
+
+
+
+
+h1 {
+	color: black;
+	font-size: 3em;
+	font-family: Arial;
+	font-style: bold;
+	text-align: center;
+}
+
+
+
+@keyframes fadeinout {
+	0%,100% { opacity: 0; }
+	50% { opacity: 1; }
+}
+
+
+a {
+	font-family: Arial;
+	font-weight: 700;
+	display: block;
+	position: relative;
+	padding: 4px;
+	text-decoration: none;
+	color: black;
+	border-radius: 8px;
+	box-shadow: 0px 9px 0px rgba(219, 31, 5, 1.0), 0px 9px 25px rgba(0, 0, 0, 0.7);
+	margin: 100px auto;
+	width: 160px;
+	text-align: center;
+	transition: all 0.1s ease;
+}
+
+a:active {
+	box-shadow: 0px 3px 0px rgba(219, 31, 5, 1.0), 0px 3px 6px rgba(0, 0, 0, 0.9);
+	position: relative;
+	top: 6px;
+}
+
+#cityMayor {
+	width: 200px;
+	height: 200px;
+	background: black;
+	animation: fadeinout 20s linear forwards;
+
+}
+
